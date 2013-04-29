@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.pas,D:\文档\RAD Studio\Projects\Unit1.pas=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dproj,D:\文档\RAD Studio\Projects\Project1.dproj=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\MyHearts.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unit1.pas=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitName.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dfm,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unit1.dfm=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitScore.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dfm,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unit1.dfm=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unitlogion.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dfm,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unit1.dfm=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitOption.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dfm,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unit1.dfm=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitName.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unit1.pas=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitScore.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dfm,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\ABOUT.dfm=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitAbout.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dproj,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\MyHearts.dproj=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\MSHeart.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\ABOUT.pas=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitAbout.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dfm,D:\文档\RAD Studio\Projects\Unit1.dfm=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unit1.pas=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitTPoke.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unit1.pas=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\UnitOption.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unit1.pas=D:\文档\RAD Studio\Projects\Delphi\游戏开发\红心大战\Unitlogion.pas</Transaction>
+  </Transactions>
+</BorlandProject>
