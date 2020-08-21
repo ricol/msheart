@@ -1,18 +1,18 @@
-unit UnitScore;
+unit Words;
 
 interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, StdCtrls;
+  Dialogs, StdCtrls, ExtCtrls;
 
 type
-  TFormScore = class(TForm)
+  TFormLogion = class(TForm)
+    Image1: TImage;
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
     BtnOK: TButton;
-    lbRicol: TLabel;
-    lbComputerName1: TLabel;
-    lbComputerName2: TLabel;
-    lbComputerName3: TLabel;
     procedure BtnOKClick(Sender: TObject);
   private
     { Private declarations }
@@ -21,13 +21,13 @@ type
   end;
 
 var
-  FormScore: TFormScore;
+  FormLogion: TFormLogion;
 
 implementation
 
 {$R *.dfm}
 
-procedure TFormScore.BtnOKClick(Sender: TObject);
+procedure TFormLogion.BtnOKClick(Sender: TObject);
 begin
   Close;
 end;

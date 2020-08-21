@@ -2,13 +2,13 @@ program MSHeart_XE5;
 
 uses
   Forms,
-  UnitMain in 'UnitMain.pas' {FormMain},
-  UnitOption in 'UnitOption.pas' {FormOption},
-  UnitScore in 'UnitScore.pas' {FormScore},
-  Unitlogion in 'Unitlogion.pas' {FormLogion},
-  UnitAbout in 'UnitAbout.pas' {FormAboutBox},
-  UnitName in 'UnitName.pas' {FormName},
-  UnitTPoke in 'UnitTPoke.pas';
+  Main in 'Main.pas' {FormMain},
+  Option in 'Option.pas' {FormOption},
+  Score in 'Score.pas' {FormScore},
+  Words in 'Words.pas' {FormLogion},
+  About in 'About.pas' {FormAboutBox},
+  Name in 'Name.pas' {FormName},
+  Poker in 'Poker.pas';
 
 {$R *.res}
 

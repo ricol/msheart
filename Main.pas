@@ -1,4 +1,4 @@
-unit UnitMain;
+unit Main;
 
 {
   CONTACT: WANGXINGHE1983@GMAIL.COM
@@ -43,7 +43,7 @@ var
 
 implementation
 
-uses Unitlogion, UnitOption, UnitScore, UnitAbout, UnitName;
+uses Words, Option, Score, About, Name;
 
 {$R *.dfm}
 
